@@ -29,6 +29,7 @@ name:Nirosha.M,Reg no:212223110032
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 ## Output :
+![240579638-56a83ac2-cbd6-41e5-a0ab-788d37c1160d](https://github.com/niroshamuthukumar/Single-server-infinite-capacity---Markov-Model/assets/151830921/3134b95e-a8b4-4f55-ae5e-dad730577ce2)
 
 ## Result :
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
